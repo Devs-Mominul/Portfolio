@@ -81,6 +81,65 @@
         display: block;
         width: 100% !important;
     }
+    .aboutme-head h1{
+        font-size: 18px !important;
+    }
+    .names{
+        position: relative !important;
+        display: none !important;
+    }
+    .names::after{
+        content: '';
+        position: absolute !important;
+        left: 0;
+        top: 0;
+        width: 0 !important;
+        height: 0 !important;
+        display: none !important;
+
+    }
+    .names::before{
+        content: '';
+        position: absolute !important;
+        left: 0;
+        top: 0;
+        width: 0 !important;
+        height: 0 !important;
+        display: none !important;
+
+    }
+    .cv-info{
+        width: 100% !important;
+    }
+    .cv-info p{
+        font-size: 16px !important;
+        display: block;
+    }
+    .personal-info h1{
+        font-size: 22px !important;
+    }
+    .personal-info{
+        width: 100% !important;
+    }
+    .myself-head h1{
+        font-size: 32px !important;
+    }
+    .myself-head p{
+        font-size: 14px !important;
+    }
+    .ul-4{
+        width: 100%;
+        display: block;
+    }
+    .uli li{
+        font-size: 16px !important;
+    }
+    .port-head h1{
+        font-size: 26px !important;
+    }
+    .port-head p{
+        font-size: 18px !important;
+    }
 
     
 }
@@ -167,6 +226,61 @@
         display: block;
         width: 100% !important;
     }
+    .aboutme-head h1{
+        font-size: 18px !important;
+    }
+    .names{
+        position: relative !important;
+        display: none !important;
+    }
+    .names::after{
+        content: '';
+        position: absolute !important;
+        left: 0;
+        top: 0;
+        width: 0 !important;
+        height: 0 !important;
+        display: none !important;
 
+    }
+    .names::before{
+        content: '';
+        position: absolute !important;
+        left: 0;
+        top: 0;
+        width: 0 !important;
+        height: 0 !important;
+        display: none !important;
+
+    }
+    .cv-info{
+        width: 100% !important;
+    }
+    .cv-info p{
+        font-size: 16px !important;
+        display: block;
+    }
+    .personal-info h1{
+        font-size: 22px !important;
+    }
+    .personal-info{
+        width: 100% !important;
+    }
+    .myself-head h1{
+        font-size: 32px !important;
+    }
+    .myself-head p{
+        font-size: 14px !important;
+    }
+    .ul-4{
+        width: 100%;
+        display: block;
+    }
+    .uli li{
+        font-size: 16px !important;
+    }
+
+    
+   
     
 }
