@@ -319,6 +319,9 @@
     .port-head p{
         font-size: 18px !important;
     }
+    .map{
+        margin-left: -20px !important;
+     }
     
    
     
@@ -481,7 +484,9 @@
     .port-head p{
         font-size: 18px !important;
     }
-    
+    .map{
+        margin-left: -20px !important;
+     }
    
     
 }
