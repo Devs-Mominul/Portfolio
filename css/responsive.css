@@ -148,9 +148,9 @@
      }
 
      .preloader {
-        width: 100%;
+        width: 100% !important;
         background-color: #000 !important;
-        height: 100vh;
+        height: 100vh !important;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -164,9 +164,9 @@
 }
 @media screen and (min-width:441px) and (max-width:540px) {
     .preloader {
-        width: 100%;
+        width: 100% !important;
         background-color: #000 !important;
-        height: 100vh;
+        height: 100vh !important;
         display: flex;
         align-items: center;
         justify-content: center;
