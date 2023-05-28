@@ -149,15 +149,16 @@
 
      .preloader {
         width: 100% !important;
-        background-color: #000 !important;
+        background-color: #000 ;
         height: 100vh !important;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 999;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        z-index: 99999999999;
         position: fixed;
         left: 0;
         top: 0;
+        display: none !important;
       }
 
     
@@ -165,15 +166,16 @@
 @media screen and (min-width:441px) and (max-width:540px) {
     .preloader {
         width: 100% !important;
-        background-color: #000 !important;
+        background-color: #000 ;
         height: 100vh !important;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 999;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        z-index: 99999999999;
         position: fixed;
         left: 0;
         top: 0;
+        display: none !important;
       }
     body{
         overflow-x: hidden !important;
@@ -330,15 +332,16 @@
 @media screen and (min-width:541.99px) and (max-width:575.99px) {
     .preloader {
         width: 100% !important;
-        background-color: #000 !important;
+        background-color: #000 ;
         height: 100vh !important;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 999;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        z-index: 99999999999;
         position: fixed;
         left: 0;
         top: 0;
+        display: none !important;
       }
     body{
         overflow-x: hidden !important;

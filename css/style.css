@@ -491,16 +491,16 @@ p{
     font-weight: 500;
 }
 .preloader{
-    width: 100%;
-    background-color: #000 !important;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 999;
-    position: fixed;
-    left: 0;
-    top: 0;
+        width: 100%;
+        background-color: #000 ;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 99999999999;
+        position: fixed;
+        left: 0;
+        top: 0;
 }
 .back2_top{
     position: fixed;
