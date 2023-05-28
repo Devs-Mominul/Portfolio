@@ -17,6 +17,7 @@
        width: 20px !important;
        height: 20px !important;
        font-size: 12px;
+       display: none !important;
     }
     .batton a:nth-child(1){
         display: none;
@@ -198,6 +199,7 @@
        width: 20px !important;
        height: 20px !important;
        font-size: 12px;
+       display: none !important;
     }
     .batton a:nth-child(1){
         display: none;
@@ -364,6 +366,7 @@
        width: 20px !important;
        height: 20px !important;
        font-size: 12px;
+       display: none !important;
     }
     .batton a:nth-child(1){
         display: none;
@@ -528,6 +531,7 @@
        width: 20px !important;
        height: 20px !important;
        font-size: 12px;
+       display: none !important;
     }
     .batton a:nth-child(1){
         display: none;
@@ -676,6 +680,7 @@
        width: 20px !important;
        height: 20px !important;
        font-size: 12px;
+       display: none !important;
     }
     .batton a:nth-child(1){
         display: none;
