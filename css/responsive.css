@@ -147,9 +147,34 @@
         margin-left: -20px !important;
      }
 
+     .preloader {
+        width: 100%;
+        background-color: #000 !important;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 999;
+        position: fixed;
+        left: 0;
+        top: 0;
+      }
+
     
 }
 @media screen and (min-width:441px) and (max-width:540px) {
+    .preloader {
+        width: 100%;
+        background-color: #000 !important;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 999;
+        position: fixed;
+        left: 0;
+        top: 0;
+      }
     body{
         overflow-x: hidden !important;
     }
