@@ -140,10 +140,19 @@
     .port-head p{
         font-size: 18px !important;
     }
+    body{
+        overflow-x: hidden !important;
+    }
+    .map{
+        margin-left: -20px !important;
+     }
 
     
 }
 @media screen and (min-width:441px) and (max-width:540px) {
+    body{
+        overflow-x: hidden !important;
+    }
     .navbar-toggler{
         background-color:#fff;
     }
@@ -279,7 +288,12 @@
     .uli li{
         font-size: 16px !important;
     }
-
+    .port-head h1{
+        font-size: 26px !important;
+    }
+    .port-head p{
+        font-size: 18px !important;
+    }
     
    
     

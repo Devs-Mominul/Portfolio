@@ -5,6 +5,7 @@
 }
 body{
     background-color: #050000;
+    overflow-x: hidden;
     /* position: relative; */
     
 }
@@ -494,4 +495,5 @@ p{
 .back2_top a{
     color: #F0F2F3;
 }
+
 /* portfolio page end */
