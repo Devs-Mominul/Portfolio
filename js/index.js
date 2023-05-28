@@ -22,4 +22,10 @@ $(window).scroll(function(){
         $('.back2_top').fadeOut();
 
     }
+    if(minar > 20){
+        $('.nav-bar').addClass("minar-bg")
+    }
+    else{
+        $('.nav-bar').removeClass("minar-bg")
+    }
 })
