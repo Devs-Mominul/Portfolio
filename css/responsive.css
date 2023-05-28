@@ -493,4 +493,170 @@
    
     
 }
+@media screen and (min-width:576px) and (max-width:675.99px) {
+    .preloader {
+        width: 100% !important;
+        background-color: #000 ;
+        height: 100vh !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        z-index: 99999999999;
+        position: fixed;
+        left: 0;
+        top: 0;
+        display: none !important;
+      }
+    body{
+        overflow-x: hidden !important;
+    }
+    .navbar-toggler{
+        background-color:#fff;
+    }
+    .social-icon .icon-i:nth-child(2){
+        display: none;
+    }
+    .par-dis h3{
+        color: #fff;
+        font-size: 16px;
+    }
+    .par-dis p{
+        font-size: 16px !important;
+    }
+    .batton a{
+       
+       width: 20px !important;
+       height: 20px !important;
+       font-size: 12px;
+    }
+    .batton a:nth-child(1){
+        display: none;
+        padding-bottom: 10px;
+        padding-top: -10px;
+    }
+    .small{
+        width: 100%;
+        display: block;
+        margin-bottom: 10px;
+    }
+    .about-head-par .about-head h4{
+        font-size: 16px !important;
+    }
+    .about-head-par p{
+        font-size: 12px !important;
+    }
+    .about-big-par p{
+        font-size: 13px !important;
+    }
+    .about-icon a{
+        display: block;
+        font-size: 11px !important;
+        padding: 8px 15px !important;
+        margin-bottom: 10px;
+    }
+    .inners span{
+        font-size: 12px !important;
+    }
+    .inners h5{
+        font-size: 14px !important;
+    }
+    .service-head-div h1{
+        font-size: 25px !important;
+    }
+    .service-head-div p{
+        font-size: 16px !important;
+    }
+    .heading-live p{
+        font-size: 14px !important;
+        margin-bottom: 10px !important;
+    }
+    .heading-live h1{
+        font-size: 24px !important;
+    }
+    .left-action h1{
+        font-size: 16px !important;
+        width: 100%;
+    }
+    .with-map{
+        display: block !important;
+        width: 100%;
+    }
+    .contact-text span{
+        font-size: 14px !important;
+    }
+    .map{
+        display: block !important;
+        width: 100% !important;
+    }
+    .add-form{
+        display: block;
+        width: 100% !important;
+    }
+    .aboutme-head h1{
+        font-size: 18px !important;
+    }
+    .names{
+        position: relative !important;
+        display: none !important;
+    }
+    .names::after{
+        content: '';
+        position: absolute !important;
+        left: 0;
+        top: 0;
+        width: 0 !important;
+        height: 0 !important;
+        display: none !important;
+
+    }
+    .names::before{
+        content: '';
+        position: absolute !important;
+        left: 0;
+        top: 0;
+        width: 0 !important;
+        height: 0 !important;
+        display: none !important;
+
+    }
+    .cv-info{
+        width: 100% !important;
+    }
+    .cv-info p{
+        font-size: 16px !important;
+        display: block;
+    }
+    .personal-info h1{
+        font-size: 22px !important;
+    }
+    .personal-info{
+        width: 100% !important;
+    }
+    .myself-head h1{
+        font-size: 32px !important;
+    }
+    .myself-head p{
+        font-size: 14px !important;
+    }
+    .ul-4{
+        width: 100%;
+        display: block;
+    }
+    .uli li{
+        font-size: 16px !important;
+    }
+    .port-head h1{
+        font-size: 26px !important;
+    }
+    .port-head p{
+        font-size: 18px !important;
+    }
+    .map{
+        margin-left: -20px !important;
+     }
+   
+    
+}
+
+
 
