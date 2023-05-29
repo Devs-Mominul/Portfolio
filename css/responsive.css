@@ -4,6 +4,10 @@
    
 }
 @media screen and (min-width:340px) and (max-width:440px) {
+    .map iframe{
+        width: 80% !important;
+        height: 80%!important;
+     }
     .navbar-toggler{
         background-color:#fff;
     }
@@ -79,10 +83,10 @@
     .contact-text span{
         font-size: 14px !important;
     }
-    .map{
-        display: block !important;
-        width: 100% !important;
-    }
+    .map iframe{
+        width: 80% !important;
+        height: 80%!important;
+     }
     .add-form{
         display: block;
         width: 100% !important;
@@ -149,8 +153,9 @@
     body{
         overflow-x: hidden !important;
     }
-    .map{
-        margin-left: -20px !important;
+    .map iframe{
+        width: 80% !important;
+        height: 80%!important;
      }
 
      .preloader {
@@ -170,6 +175,10 @@
     
 }
 @media screen and (min-width:441px) and (max-width:540px) {
+    .map{
+        width: 100% !important;
+        height: 100%!important;
+     }
     .preloader {
         width: 100% !important;
         background-color: #000 ;
@@ -261,10 +270,12 @@
     .contact-text span{
         font-size: 14px !important;
     }
-    .map{
-        display: block !important;
+    
+    .map iframe{
         width: 100% !important;
-    }
+        height: 100%!important;
+     }
+
     .add-form{
         display: block;
         width: 100% !important;
@@ -328,8 +339,9 @@
     .port-head p{
         font-size: 18px !important;
     }
-    .map{
-        margin-left: -20px !important;
+    .map iframe{
+        width: 100% !important;
+        height: 100%!important;
      }
     
    
@@ -428,10 +440,10 @@
     .contact-text span{
         font-size: 14px !important;
     }
-    .map{
-        display: block !important;
+    .map iframe{
         width: 100% !important;
-    }
+        height: 100%!important;
+     }
     .add-form{
         display: block;
         width: 100% !important;
@@ -495,10 +507,10 @@
     .port-head p{
         font-size: 18px !important;
     }
-    .map{
-        margin-left: -20px !important;
+    .map iframe{
+        width: 100% !important;
+        height: 100%!important;
      }
-   
     
 }
 @media screen and (min-width:576px) and (max-width:675.99px) {
@@ -593,10 +605,10 @@
     .contact-text span{
         font-size: 14px !important;
     }
-    .map{
-        display: block !important;
+    .map iframe{
         width: 100% !important;
-    }
+        height: 100%!important;
+     }
     .add-form{
         display: block;
         width: 100% !important;
@@ -660,10 +672,10 @@
     .port-head p{
         font-size: 18px !important;
     }
-    .map{
-        margin-left: -20px !important;
+    .map iframe{
+        width: 100% !important;
+        height: 100%!important;
      }
-   
     
 }
 @media screen and (min-width:676px) and (max-width:776px) {
@@ -742,10 +754,10 @@
     .contact-text span{
         font-size: 14px !important;
     }
-    .map{
-        display: block !important;
+    .map iframe{
         width: 100% !important;
-    }
+        height: 100%!important;
+     }
     .add-form{
         display: block;
         width: 100% !important;
@@ -812,8 +824,9 @@
     body{
         overflow-x: hidden !important;
     }
-    .map{
-        margin-left: -20px !important;
+    .map iframe{
+        width: 100% !important;
+        height: 100%!important;
      }
 
      .preloader {
