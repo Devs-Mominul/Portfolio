@@ -34,6 +34,10 @@ body{
     animation-name: mominul;
     animation-duration: 2s;
 }
+a.tel{
+    text-decoration: none !important;
+    color: #F0F2F3;
+}
 @keyframes mominul {
     0%{
         top:-50px;
