@@ -180,6 +180,7 @@ a.tel{
 .shop-cards:hover{
     background-color: #6B13A7;
     border: 0;
+    border: 2px solid transparent;
 
 }
 .shop-cards:hover .shoping-icon{
@@ -262,7 +263,7 @@ a.tel{
 .about-icon a:hover{
     background-color: #6B13A7;
    
-    border: 0px solid transparent;
+    border: 2px solid transparent;
 }
 .about-icon a:last-child{
     margin-right: 0;
