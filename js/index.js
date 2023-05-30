@@ -29,3 +29,23 @@ $(window).scroll(function(){
         $('.nav-bar').removeClass("minar-bg")
     }
 })
+$(function() {
+    // Get the progress bar element
+    var progressBar = $('.progress');
+  
+    // Set the initial value
+    var progressValue = 0;
+    progressBar.css('width', progressValue + '%');
+  
+    // Update the progress value (e.g., when a button is clicked)
+    $('#increase-progress').on('click', function() {
+      progressValue += 10;
+      progressBar.css('width', progressValue + '%');
+    });
+  
+    $('#decrease-progress').on('click', function() {
+      progressValue -= 10;
+      progressBar.css('width', progressValue + '%');
+    });
+  });
+  
